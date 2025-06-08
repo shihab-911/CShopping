@@ -3,11 +3,6 @@
 void main()
 {
     printf("Hello World");
-    printf("My changes");
+    scanf("%d",&a);
+    printf("The value of a is %d",a);
 }
-
-
-
-
-
-
