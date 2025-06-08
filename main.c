@@ -1,4 +1,11 @@
 #include<stdio.h>
-we are locking for changes
+
+void main()
+{
+    printf("Hello World");
+}
+
+
+
 
 
